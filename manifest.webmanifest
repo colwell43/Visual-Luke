@@ -1,7 +1,7 @@
 {
   "name": "Visual Luke",
   "short_name": "Visual Luke",
-  "description": "The Gospel of Luke (CEV) with photographs and reflection questions from the Visual Faith Project.",
+  "description": "The Gospel of Luke (World English Bible) with photographs and reflection questions.",
   "id": "./",
   "start_url": "./",
   "scope": "./",
